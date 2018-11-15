@@ -1,0 +1,21 @@
+from tk import * 
+"""INSTITUTO TECOLÓGICO DE COSTA RICA.
+       INGENIERÍA EN COMPUTADORES.
+       
+       TERCER PROYECTO PROGRAMADO.
+
+      CURSO: TALLER DE PROGRAMACIÓN.
+
+    PROFESOR: MILTON VILLEGAS L.
+        
+    ALUMNOS: MARCO PICADO MONESTEL (2018310184).
+             ANTHONY ACUÑA.
+
+        SEGUNDO SEMESTRE 2018 """
+
+#VENTANA ROOT
+
+root=Tk()
+root.title("ventana base de toda la interfaz")
+root.geometry("700x700")
+root.mainloop()
